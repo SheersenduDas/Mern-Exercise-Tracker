@@ -8,7 +8,7 @@ At first run
 to install all the dependencies.
 
 
-In the project directory, you can run:
+Then in the project directory, you can run:
 
 ### `npm start`
 
